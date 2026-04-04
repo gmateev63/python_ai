@@ -1,1 +1,3 @@
-# python_ai
+**There is python tests:** 
+
+*langchain, langgraph and rag*
