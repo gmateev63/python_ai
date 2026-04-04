@@ -1,3 +1,3 @@
-**There is python tests:** 
+**Any python's AI tests:** 
 
 *langchain, langgraph and rag*
