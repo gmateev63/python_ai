@@ -24,6 +24,6 @@ llm = ChatAnthropic(model="claude-3-5-sonnet-20241022")
 response = llm.invoke([
     SystemMessage(content=prompt_template.prompt),  # fetched from Langfuse
     HumanMessage(content="I love this product!")
-])
+]) 
 
 print(response.content)
